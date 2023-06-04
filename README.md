@@ -1,5 +1,15 @@
-# Hello, Im Emaz, i code a lot, maybe to much
-Check out my Eagler hacked client list https://github.com/ImEmaz/eagler-hacked-client
 
-I code a lot, i often like to mess with server's on minecraft with a hacked client and kill noobs.
 
+
+
+<br />
+<div align="center">
+
+
+  <h3 align="center">Emaz's Github Profile READEME.md</h3>
+  
+  Hello People, I am emaz, i code a lot, but maybe to much, I often post my projects on here, you can go check them out if   you want to, 
+  
+  
+  Check out this project im working on: https://github.com/ImEmaz/eagler-hacked-clients
+  
