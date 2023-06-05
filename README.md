@@ -1,12 +1,14 @@
+```yaml
+User: ImEmaz
+Contact: Emaz#0001
 
-
-
-
-<br />
-<div align="center">
-
-
-  <h3 align="center">Howdy, Check out this project im working on: https://github.com/ImEmaz/eagler-hacked-clients </h3>
-
-  
-  
+Emaz:
+  - I just code.
+  - No idea what else to put here
+What i mainly use:
+  - JavaScript
+  - Python
+Likes:
+  - Coding
+  - Stealing Code
+```
